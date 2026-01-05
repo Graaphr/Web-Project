@@ -1,6 +1,9 @@
 This Project is a team project made by 6 People including me for PBL (Project Based Learning) in Politeknik Negeri Batam
 
-TEAM
+PROJECT MANAGER:
+- Supardianto, S.ST., M.Eng.
+
+TEAM:
 1. Terra Faqih Satria Madjid (Leader) - Fullstack Developer
 2. Alya Ghaitsa Salsabila - Fullstack Developer
 3. Rivo Nyawan Situmorang - Frontend Developer
